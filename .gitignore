@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
+user_data/
+!.env.example

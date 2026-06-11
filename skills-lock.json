@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "skills": {
+    "active-directory-kerberos-attacks": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/active-directory-kerberos-attacks/SKILL.md",
+      "computedHash": "4b772d07ea82bab22735a768faa11cf92677586e800f348620cf0e9dde85b45c"
+    },
+    "ai-ml-security": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ai-ml-security/SKILL.md",
+      "computedHash": "22fc89055c72abdbb7d96b8c03c856ff0381e8def5231bbe49f1047952881349"
+    },
+    "api-recon-and-docs": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/api-recon-and-docs/SKILL.md",
+      "computedHash": "12247e2d74ea9cfbec31d08574c49dac8e1dd5ebd1546d6eb09d5b5f522e6ea2"
+    },
+    "browser-exploitation-v8": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/browser-exploitation-v8/SKILL.md",
+      "computedHash": "25fe9a34455cd30295a6eda016b0a5926e2c1ea7e4a4470e9f03f6eb95949e3e"
+    },
+    "cors-cross-origin-misconfiguration": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cors-cross-origin-misconfiguration/SKILL.md",
+      "computedHash": "7731dcbde9e3b97269d440be13ad27a5ac7eee0946a5dda10378132924863b1b"
+    },
+    "defi-attack-patterns": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/defi-attack-patterns/SKILL.md",
+      "computedHash": "489e06e156beadd89f4026cdf1d35f052d524f68028dba0e44cf9e27060c8728"
+    },
+    "graphql-and-hidden-parameters": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/graphql-and-hidden-parameters/SKILL.md",
+      "computedHash": "f01ceab990e4cfbf2eb0bf067dac8fa0bfdbbe1dcb105c33b9a66b51dc1a7585"
+    },
+    "hack": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/hack/SKILL.md",
+      "computedHash": "46c109bb84cafb3c27ba384856192de0c3e96f0caf4fcae2d09cdfc6b5da64be"
+    },
+    "hackernews": {
+      "source": "vm0-ai/vm0-skills",
+      "sourceType": "github",
+      "skillPath": "hackernews/SKILL.md",
+      "computedHash": "cabc1b3d240e7fb231e74e898a19756f15cb85fdf9a271c0012e758237ffa084"
+    },
+    "hash-attack-techniques": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/hash-attack-techniques/SKILL.md",
+      "computedHash": "b1d70576e3c1931fd466ccb082d54d64c06287880c17327e2151bca943e75c6f"
+    },
+    "idor-broken-object-authorization": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/idor-broken-object-authorization/SKILL.md",
+      "computedHash": "e8482d045aa71c0ce3768be7f5fc68e31ac76ffc16637156013dca535a024cde"
+    },
+    "insecure-source-code-management": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insecure-source-code-management/SKILL.md",
+      "computedHash": "fbf63c4ecabe9a7136ef65cfa21b96fdabbe111154346629869130c2ba9a500b"
+    },
+    "llm-prompt-injection": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/llm-prompt-injection/SKILL.md",
+      "computedHash": "a5515198efc7210129c7d071a57cdf68f75d9dd5aeb83828f44213b28ce9612f"
+    },
+    "recon-and-methodology": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/recon-and-methodology/SKILL.md",
+      "computedHash": "d855345c686a247d79544f1cd66183b1ef9bcc94dc23f3e97001f38af65d274e"
+    },
+    "recon-for-sec": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/recon-for-sec/SKILL.md",
+      "computedHash": "dd8a5cc6df96d238fd622505be4ded057421c317774881d7d2644f9ba97de2a3"
+    },
+    "sqli-sql-injection": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sqli-sql-injection/SKILL.md",
+      "computedHash": "8829541ba420c7458bff1abbb63da45f194a4d5ebe503f8111d44c331423d04d"
+    },
+    "ssrf-server-side-request-forgery": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ssrf-server-side-request-forgery/SKILL.md",
+      "computedHash": "5fc167733802a1efd44e591948382d639b723fe563d993ba7c0b2c8333cc00d7"
+    },
+    "web-cache-deception": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-cache-deception/SKILL.md",
+      "computedHash": "b5fac1a6db60cb4be7327291c3622ca15dd1edb3ef991835295afcbc7ce4482a"
+    }
+  }
+}
