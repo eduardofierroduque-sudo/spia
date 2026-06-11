@@ -5,10 +5,10 @@ WORKDIR /app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY ../../backend/ /app/backend/
+COPY backend/ /app/backend/
 COPY src/ /app/src/
 
-ENV APIFY_DISABLE_OUTDATED_WARNING=1
 ENV PYTHONPATH=/app/backend
+ENV APIFY_DISABLE_OUTDATED_WARNING=1
 
 CMD ["python", "-m", "src.main"]
