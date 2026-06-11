@@ -1,0 +1,14 @@
+{
+  "name": "spia-privacy-auditor",
+  "title": "SPIA Privacy Auditor",
+  "version": "1.0.0",
+  "description": "Scan emails, usernames, names & phones across 60+ sources on the surface web, deep web, and dark web. Get a privacy score and actionable recommendations.",
+  "main": "src/main.py",
+  "buildTag": "latest",
+  "env": null,
+  "template": "python",
+  "input": "./.actor/INPUT_SCHEMA.json",
+  "storages": {
+    "dataset": "./.actor/DATASET_SCHEMA.json"
+  }
+}

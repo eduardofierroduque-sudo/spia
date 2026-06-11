@@ -1,0 +1,50 @@
+{
+  "title": "SPIA Privacy Auditor Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "query": {
+      "title": "Query",
+      "type": "string",
+      "description": "Email, username, full name or phone number to scan",
+      "editor": "textfield",
+      "prefill": "user@example.com",
+      "minLength": 2,
+      "maxLength": 200
+    },
+    "queryType": {
+      "title": "Query Type",
+      "type": "string",
+      "description": "Auto-detect or force a specific type",
+      "editor": "select",
+      "default": "auto",
+      "enum": ["auto", "email", "username", "name", "phone"],
+      "enumTitles": ["Auto-detect", "Email", "Username", "Full Name", "Phone Number"]
+    },
+    "includeImages": {
+      "title": "Include Images",
+      "type": "boolean",
+      "description": "Search for related images",
+      "default": true
+    },
+    "apiKey": {
+      "title": "SPIA API Key",
+      "type": "string",
+      "description": "Your SPIA instance API key (required)",
+      "editor": "textfield"
+    },
+    "serpapiKey": {
+      "title": "SerpAPI Key",
+      "type": "string",
+      "description": "Optional: enables real Google search results",
+      "editor": "textfield"
+    },
+    "hibpApiKey": {
+      "title": "HIBP API Key",
+      "type": "string",
+      "description": "Optional: enables breach database search",
+      "editor": "textfield"
+    }
+  },
+  "required": ["query"]
+}
