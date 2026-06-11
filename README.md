@@ -1,6 +1,10 @@
+<img width="623" height="476" alt="image" src="https://github.com/user-attachments/assets/c8641a43-c71e-4de6-b2f8-4ded5d233e0f" />
+
 # SPIA — Personal Privacy Auditor
 
 Self-hosted tool that scans the surface web, deep web, and dark web for exposed personal information. BYO API keys model — you own the software, you control the data.
+
+ <img width="1651" height="609" alt="image" src="https://github.com/user-attachments/assets/8f381d4e-b5c1-40fb-932f-a738e0dc63f8" />
 
 ## Quick Start (Docker)
 
@@ -78,6 +82,13 @@ Users configure their own API keys in Settings:
 - Security headers (CSP, HSTS, X-Frame-Options)
 - No telemetry, no tracking, no data sharing
 
+ 
+<img width="1552" height="840" alt="image" src="https://github.com/user-attachments/assets/42950c3d-8ac4-49fb-a175-e2fb991a6dc8" />
+
+
 ## License
 
 SPIA is source-available. To use in production, purchase a license key. See Pricing page for details.
+<img width="812" height="265" alt="image" src="https://github.com/user-attachments/assets/57e72e94-d092-4b5e-b107-b54149c3f828" />
+
+
