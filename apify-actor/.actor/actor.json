@@ -1,8 +1,10 @@
 {
   "actorSpecification": 1,
-  "name": "spia-privacy-auditor",
-  "title": "SPIA Privacy Auditor",
-  "description": "Scan emails, usernames, names & phones across 60+ sources on the surface web, deep web, and dark web.",
+  "name": "spia-privacy-scan",
+  "title": "SPIA — Personal Privacy Auditor",
+  "description": "Scan emails, usernames, names & phones across 60+ sources. Privacy score, breach check, dark web scan. BYO API keys. Self-hosted OSINT tool.",
+  "seoTitle": "SPIA — Privacy Auditor — OSINT Scanner",
+  "seoDescription": "Find where your personal data is exposed online. Scan 60+ sources across surface web, deep web, and dark web. Privacy score 0-100 with recommendations.",
   "version": "1.0",
   "buildTag": "latest",
   "input": "./INPUT_SCHEMA.json"
